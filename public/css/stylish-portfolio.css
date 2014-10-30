@@ -172,12 +172,16 @@ hr.small {
 
 .about {
     padding: 50px 0;
+    color: #4F4F4F;
+
 }
 
 /* products */
 
 .products {
     padding: 50px 0;
+    background-color: #4F4F4F;
+
 }
 
 .product-item {
@@ -202,6 +206,8 @@ hr.small {
 
 .portfolio {
     padding: 50px 0;
+    color: #4F4F4F;
+
 }
 
 .portfolio-item {
@@ -220,6 +226,7 @@ hr.small {
 
 .call-to-action {
     padding: 50px 0;
+    background-color: #4F4F4F;
 }
 
 .call-to-action .btn {
@@ -242,4 +249,6 @@ hr.small {
 
 footer {
     padding: 30px 0;
+    color: #4F4F4F;
+
 }
