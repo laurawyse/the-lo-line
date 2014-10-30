@@ -1,0 +1,3 @@
+$('.img-portfolio').click(function () {
+
+});
